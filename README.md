@@ -1,2 +1,3 @@
 # swapit
-Community swap aid, used for clothing exchange and the like.
+
+a [Sails](http://sailsjs.org) application
