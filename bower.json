@@ -1,0 +1,19 @@
+{
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.20"
+  },
+  "name": "swapit",
+  "version": "0.0.0",
+  "author": "curtisbates",
+  "private": true
+}
