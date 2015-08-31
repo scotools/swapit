@@ -64,7 +64,14 @@ module.exports.connections = {
     // password: 'password',
     // database: 'your_mongo_db_name_here'
   },
-
+  mongoLabSwapit: {
+	adapter: 'sails-mongo',
+	host: 'ds041663.mongolab.com',
+	port: 41663,
+	database: 'swapit',
+	user: 'swapit-webapp',
+	password: 'lawnm0wr'
+  },
   /***************************************************************************
   *                                                                          *
   * PostgreSQL is another officially supported relational database.          *
