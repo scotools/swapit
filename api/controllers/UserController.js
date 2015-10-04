@@ -6,6 +6,11 @@
  */
 
 module.exports = {
-	
+	// We are adding the method to render the index page.
+	// This will help render 'Views/user/index.ejs'
+	index: function (req, res) {
+		res.view(null, {
+			title: "User"
+		});
+	}
 };
-
